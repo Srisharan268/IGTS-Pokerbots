@@ -1,0 +1,27 @@
+2.A:
+exactly any K people contribute and exactly no one
+ contributes are the only two nash equilibria.
+
+proof:
+if >K contribute or if non-zero people <K contribute,
+any person contributing has incentive to change his 
+decision assuming everyone else does not change. 
+Hence >K or {1,2,..,k-1} cannot be psne.
+
+0 and K are PSNE because no one has incentive to 
+change their decision.
+
+
+2.B:
+Part 1:
+0 hunters hunt for stag and exactly n hunt for stag
+are the equillibria.
+
+Part 2:
+0 hunters hunt for stag and exactly k hunt for stag 
+are the equillibria.
+
+proof:
+same analysis as in 2.A
+
+

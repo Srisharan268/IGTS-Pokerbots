@@ -1,0 +1,17 @@
+player going second will win
+
+strategy:
+player 2 copies whichever move player 1 made
+
+proof:
+if it there are even number or rocks left in each 
+of the piles at the start of a turn, then there is 
+no possible way there will be even number of rocks 
+(i.e 0,0) in both piles after the turn.
+
+as we already start with even number of rocks in 
+both piles, as long as player 2 copies player 1's 
+move, there will always be an even number of rocks 
+in both piles at the beggining of player 1s turn.
+
+Hence player 1 cannot win.
